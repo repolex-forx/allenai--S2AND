@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "S2AND",
+  "versions": [
+    {
+      "commit": "fe0081df6647d9e4a66092693f272cbb946cae0d",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:00:48.907335+00:00"
+    }
+  ]
+}
